@@ -38,6 +38,4 @@ public class CollectionUtil {
         return !isEmpty(map);
     }
 
-
-
 }
